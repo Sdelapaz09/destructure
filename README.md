@@ -1,0 +1,2 @@
+# destructure
+Destructuring Exercise
